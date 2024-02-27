@@ -1,24 +1,10 @@
-# README
+![Infinite Scroll with Rails and Turbo - No JavaScript](https://f001.backblazeb2.com/file/webcrunch/turbo-infinite-scroll.jpg)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Infinite Scroll with Rails and Turbo - No JavaScript
 
-Things you may want to cover:
+In this tutorial, I will walk you through the process of creating an infinite scroll feature using Rails and Turbo. I wanted to see if using only Turbo was an option for this feature and turns out, it is. I was excited to discover this so I wanted to share the wealth.
 
-* Ruby version
+I will cover the necessary steps, including setting up the database and handling the server-side logic. By the end of this guide, you will have a fully functional infinite scroll feature in your Rails application that you can borrow on your own.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- 📕 [Read the tutorial](https://webcrunch.com/posts/infinite-scroll-rails-turbo/)
+- 📺 [Watch the tutorial](https://youtu.be/F63GgJSYE9I)
